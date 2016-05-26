@@ -2,7 +2,7 @@ var chessBoard = [];
 var me = true;
 
 //赢法数组
-var wins = [];
+var wins = [] ;
 
 for (var i = 0; i < 15; i++) {
   chessBoard[i] = [];
